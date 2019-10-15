@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Deck
+comment1.params=
+comment1.target=Deck()
+comment2.params=card\ position
+comment2.target=void\ putCard(Card,\ int)
+comment3.params=position
+comment3.target=void\ removeCard(int)
+comment4.params=i
+comment4.target=Card\ getCard(int)
+comment5.params=card
+comment5.target=Card\ getCard(Card)
+comment6.params=
+comment6.target=void\ shuffle()
+comment7.params=
+comment7.target=void\ shufflePartialDeck()
+comment8.params=
+comment8.target=Card\ dealCard()
+numComments=9
